@@ -1,0 +1,20 @@
+{
+  "name": "node-gtts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Mihailo Maksa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gtts": "^0.2.1",
+    "tmp": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
